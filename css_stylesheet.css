@@ -1,0 +1,136 @@
+body{
+
+    min-width: 630px;
+    text-align: center;
+}
+
+div.divone{
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    border-width: 1px;
+    width: 550px;
+    height: 87px;
+    padding-bottom: 20px;
+}
+
+a::after{
+    text-decoration: none;
+}
+a:active{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+/*    cursor: default;*/
+}
+a:hover,a:link, a:visited {
+    color: #757471;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+ /*   cursor: default;*/
+  }
+a.linkclass{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-small;
+    font-style: italic;
+    padding-left: 17px;
+    color:#696865;
+}
+a.linkone{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-small;
+    font-style: italic;
+    margin-right: 15px;
+    color:#696865;
+}
+a.linktwo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-small;
+    font-style: italic;
+    color:#696865;
+}
+p.one {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 46px;
+    margin-top: 16px;
+    margin-bottom: 5px;
+
+}
+div.divnature{
+    margin-top: 45px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: 550px;
+}
+/*
+ul.nav{
+    padding-bottom: 20px;
+    list-style-type: none;
+    margin: auto;
+}
+li.nave{
+    display: inline-block;
+}*/
+
+img.image_one{
+    object-fit: cover;
+    display: inline-block;
+    width: 310px;
+    height: 310px;
+    margin: auto;
+}
+img.image_two{
+    padding-left: 2px;
+    object-fit: cover;
+    display: inline-block;
+    width: 310px;
+    height: 310px;
+    margin: auto;
+}
+div.divthree{
+    margin-top: 23px;
+    margin-bottom: 20px;
+}
+p.crtext{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#696865;
+    font-style: italic;
+    font-size: xx-small;
+}
+div.social{
+    margin-right: 8px;
+}
+img.image_facebook{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-left: 8px;
+    margin-right: 5px;
+}
+img.image_twitter{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-left: auto;
+    padding-left: 10px;
+}
+img.image_instagram{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: auto;
+
+    padding-left: 13px;
+}
+
+/*
+div.divclasssix{
+    display: block;
+}
+
+div.social_media{
+    object-fit: cover;
+    height: 10px;
+    width: 10px;
+}*/
